@@ -1,0 +1,12 @@
+{
+    "radius_mean": 14.5,
+    "texture_mean": 19.0,
+    "perimeter_mean": 92.5,
+    "area_mean": 650.1,
+    "smoothness_mean": 0.12,
+    "area_se": 0.05,
+    "area_worst": 1000.0,
+    "compactness_mean": 0.1,
+    "compactness_se": 0.03,
+    "compactness_worst": 0.15
+}
